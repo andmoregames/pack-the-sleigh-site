@@ -1,0 +1,4 @@
+# app-ads.txt for Pack the Sleigh
+# AdMob publisher ID pub-1206009378507428 (same AdMob account as Pack the Lift).
+# Hosted at https://andmoregames.github.io/pack-the-sleigh-site/app-ads.txt
+google.com, pub-1206009378507428, DIRECT, f08c47fec0942fa0
